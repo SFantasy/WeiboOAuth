@@ -30,3 +30,4 @@ npm-debug.log
 app/config/config.js
 
 android
+.idea/
